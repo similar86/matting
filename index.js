@@ -41,7 +41,7 @@ async function fetchUsers() {
   }
 }
 
-fetchUsers(); // ← 実行
+fetchUsers(); 
 
 
 
